@@ -19,3 +19,8 @@ read file
 
 
 final push
+
+
+
+
+final pull
